@@ -30,3 +30,6 @@ the boundary between denormalized and normalized numbers for floating
 point puzzles. When btest detects an error in one of your functions,
 it prints out the test that failed, the incorrect result, and the
 expected result, and then terminates the testing for that function.
+
+
+**DISCLAIMER: This datalab is by no means made by myself. The only thing i modified here is bits.c!**
