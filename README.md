@@ -1,6 +1,6 @@
 # Datalab
 
-##User instructions:
+## User instructions:
 1. The only file that should be modified is "bits.c" file.
 
 *********************
